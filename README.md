@@ -1,3 +1,12 @@
+## Start zookeeper, kafka broker and schema registry
+
+- Clone repo 
+```$cd data-engineering```
+```$docker-compose up```
+
+
+### Iraj content
+
 This repository is dedicated to a set of tools that I implemented
 to support my courses I am teaching for Big Data Developer program.
 
